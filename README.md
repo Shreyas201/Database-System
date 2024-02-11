@@ -5,6 +5,13 @@ The project involves the development of a relational database model to store com
 
 ### File Contents
 `Database.sql`: contains SQL statements for designing the database schema.
+
 `Vaccinations.db`: Database file containing imported dataset.
+
 `Queris.sql`: Example SQL statements for specific tasks and data analysis.
+
 `Model.pdf`: Document illustrating the database design.
+
+### Dataset reference
+Details about this dataset are available in the article available through the following 
+URL: https://www.nature.com/articles/s41562-021-01122-8.
